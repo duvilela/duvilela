@@ -1,8 +1,8 @@
 ## Olá, Tudo bem ? 
 
-## Você se deparou com aquela famosa mensagem { Seu windows não é original } e a tela preta. 
-## Isso ocorre por que seus dias de licenças gratuíta acabaram ou você já usava um sistema pré-ativado e o antivirús matou a licença.
-
+ Você se deparou com aquela famosa mensagem { Seu windows não é original } e a tela preta.     
+ Isso ocorre por que seus dias de licenças gratuíta acabaram ou você já usava um sistema pré-ativado e o antivirús matou a licença.
+ 
 ![Snake animation](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
 
 ## Vou ensinar de uma forma visual bem rápida para você remover esta mensagem !
@@ -53,8 +53,13 @@ Mensagem de Sucesso !
 ![image](https://user-images.githubusercontent.com/62842286/222978048-2b1a128a-8423-413d-98d3-067bea6b1039.png)
 
 
-
-
+ Recomendação:
+ Você sabia que existem boas distribuições Linux que no meu caso , supera muito o Windows 10.
+ Caso não queira mais usar Windows, uma boa recomendação é Linux => Garuda Arch Linux ou Manjaro
+ as duas melhores distros Linux
+ https://garudalinux.org/index.html
+ https://manjaro.org/download/
+ https://www.youtube.com/watch?v=O0qltQKcJrA
 
 
 
