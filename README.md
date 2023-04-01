@@ -1,10 +1,15 @@
 #### Hi there / Olá, Tudo bem?  👋 >> Seja bem vindo ao meu Git
 Neste espaço irei compartilhar alguns projetos com vocês , sinta-se a vontade para me enviar dúvidas.
 
-![Snake animation](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="180px" width="180px" />
+
 
 <!--
 **duvilela/duvilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="150px" />
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="150px" />
+![Snake animation](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
 
 Here are some ideas to get you started:
 
