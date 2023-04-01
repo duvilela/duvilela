@@ -4,7 +4,7 @@ Neste espaço irei compartilhar alguns projetos com vocês , sinta-se a vontade 
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="180px" width="180px" />
 
- <div>🙌🏻 🅳🆄🅷🆅🅸🅻🅴🅻🅰 |🧑‍💻♡ #🅘🅣 | #🅢🅤🅟🅟🅞🅡🅣 | #🅓🅔🅥 |</div>
+ <div>🙌🏻 ✨🅳🆄🅷🆅🅸🅻🅴🅻🅰 |🧑‍💻♡ #🅘🅣 | #🅢🅤🅟🅟🅞🅡🅣 | #🅓🅔🅥 |</div>
  <div>🚀 A persistência realiza o impossível 🌟✨</div>
 
 <!--
