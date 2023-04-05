@@ -1,6 +1,7 @@
 
 #### Hi there / Olá, Tudo bem?  👋  ✨Seja bem vindo ao meu Git
-Neste espaço irei compartilhar alguns projetos com vocês , sinta-se a vontade para me enviar dúvidas.
+
+Neste espaço eu uso para os meus estudos, mas também irei compartilhar alguns projetos com vocês...
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="180px" width="180px" />
 
