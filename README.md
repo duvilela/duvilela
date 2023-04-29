@@ -10,8 +10,8 @@ In this space I use it for my studies, but I will also share some projects with 
  <p></p>
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvilela&layout=compact&langs_count=16&theme=dracula" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=duvilela&show_icons=true&theme=dracula&hide=contribs,prs" />
+[![DuStats]<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvilela&layout=compact&langs_count=16&theme=dracula" />](https://github.com/duvilela)
+[![DuStats]<img height="150em" src="https://github-readme-stats.vercel.app/api?username=duvilela&show_icons=true&theme=dracula&hide=contribs,prs" />](https://github.com/duvilela)
 </div>
 
 <!-- 
@@ -47,13 +47,7 @@ In this space I use it for my studies, but I will also share some projects with 
 <div>
 <p></p>
  
- <!--
- ![Snake animation](https://github.com/duvilela/duvilela/blob/output/github-contribution-grid-snake.svg) 
- -->
- <!-- 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/duvilela/duvilela/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/duvilela/duvilela/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
--->
- 
+
  
  
  
