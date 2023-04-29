@@ -10,7 +10,7 @@ Neste espaço eu uso para os meus estudos, mas também irei compartilhar alguns 
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvilela&layout=compact&langs_count=16&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=duvilela&hide=contribs,prs" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=duvilela&hide=contribs,prs" />
 </div>
 
 <!-- 
