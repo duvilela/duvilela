@@ -47,6 +47,13 @@ In this space I use it for my studies, but I will also share some projects with 
 <div>
 <p></p>
  
-![Snake animation](https://github.com/duvilela/duvilela/blob/main/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/duvilela/duvilela/blob/main/output/github-contribution-grid-snake.svg) -->
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/duvilela/duvilela/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/duvilela/duvilela/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+ 
+ 
+ 
+ 
+ 
+ 
 
