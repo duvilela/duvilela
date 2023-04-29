@@ -46,6 +46,7 @@ In this space I use it for my studies, but I will also share some projects with 
 
 <div>
 <p></p>
+ 
 ![Snake animation](https://github.com/duvilela/duvilela/blob/output/github-contribution-grid-snake.svg)
 
 
