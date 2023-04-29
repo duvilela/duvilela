@@ -10,8 +10,8 @@ In this space I use it for my studies, but I will also share some projects with 
  <p></p>
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvilela&layout=compact&langs_count=16&theme=dracula" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=duvilela&show_icons=true&theme=dracula&hide=contribs,prs" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvilela&layout=compact&langs_count=16&theme=dracula" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=duvilela&show_icons=true&theme=dracula&hide=contribs,prs" />
 </div>
 
 <!-- 
